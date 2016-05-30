@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: One commit One day
-email: your-email@domain.com
+title: 一个Java程序猿的博客
+email: jisonami@163.com
 description: >
-  Makes bugs go away
+  随便写点代码
 logo: "/assets/images/logo.jpg"
 baseurl: "http://jisonami.coding.me" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -20,9 +20,9 @@ bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.
 author_image: "/assets/images/author.jpg"
-twitter_username: Coding_net
-github_username:  coding
-coding_username: coding
+twitter_username: jisonami
+github_username:  jisonami
+coding_username: jisonami
 
 # Build settings
 markdown: kramdown
